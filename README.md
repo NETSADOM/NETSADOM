@@ -1,8 +1,7 @@
+<div align="center"># NETSANET TESFAYE </div>
+
+
 <div align="center">
-  # NETSANET TESFAYE
-
-
-
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58D6AD&center=true&vCenter=true&width=600&lines=Computer+Engineer;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Working+Software" alt="Introduction"/>
 
   <br/>
