@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58D6AD&center=true&vCenter=true&width=600&lines=Software+Engineer;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Working+Software" alt="Introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58D6AD&center=true&vCenter=true&width=600&lines=Computer+Engineer;Exploring+AI+%26+Intelligent+Systems;Turning+Ideas+Into+Working+Software" alt="Introduction"/>
 
   <br/>
 
@@ -44,15 +44,6 @@ Exploring graph algorithms to discover and match structural patterns in complex 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**♫ AI Music Generation**
-
-Exploring computational creativity through musical structures and generative approaches.
-
-`Python` `Generative AI`
-
-</td>
 <td width="50%" valign="top">
 
 **⌘ Software Projects**
@@ -105,11 +96,6 @@ Building practical web and mobile experiences with an emphasis on usability, tho
 
 ---
 
-### `05` — Beyond the Screen
-
-I believe good engineering starts with asking better questions, stays grounded in experimentation, and improves through continuous learning.
-
-I'm always interested in challenging problems, meaningful collaborations, and opportunities to build something worthwhile.
 
 <div align="center">
 
