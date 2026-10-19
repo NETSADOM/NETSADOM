@@ -1,4 +1,6 @@
-<div align="center"># NETSANET TESFAYE </div>
+<div align="center">
+  <h1>NETSANET TESFAYE</h1>
+</div>
 
 
 <div align="center">
