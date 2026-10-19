@@ -1,145 +1,183 @@
 
 <div align="center">
+
   <img src="assets/banner.png" width="100%" alt="Better systems. Smarter solutions." />
+
+  <br/>
+
+  # NETSANET TESFAYE
+
+  **Software Engineer · Frontend Developer · AI/ML Engineer**
+
+  *Building useful software. Exploring intelligent systems.*
+
+  <br/>
+
+  [GitHub](https://github.com/YOUR_USERNAME) ·
+  [LinkedIn](YOUR_LINKEDIN_URL) ·
+  [Email](mailto:YOUR_EMAIL)
+
 </div>
-
-<h1 align="center">Hi, I'm Netsanet Tesfaye</h1>
-
-<h3 align="center">
-  Software Engineer · Frontend Developer · AI/ML Engineer in Progress
-</h3>
-
-<p align="center">
-  Building useful software and exploring the intersection of
-  engineering, data, and artificial intelligence.
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    GitHub
-  </a>
-  ·
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    LinkedIn
-  </a>
-  ·
-  <a href="mailto:YOUR_EMAIL">
-    Email
-  </a>
-</p>
 
 ---
 
-## About Me
-
-I'm an Electrical and Computer Engineering graduate from
-Addis Ababa Science and Technology University (AASTU), with
-professional software development experience and a growing
-focus on artificial intelligence and machine learning.
-
-- Building responsive, user-friendly applications
-- Exploring machine learning and deep learning
-- Interested in algorithms, graph learning, and generative AI
-- Always learning by building practical projects
-
-## Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-### Plant Disease Detection
+## 01 / About
 
-A deep learning application that identifies plant diseases
-from leaf images and provides treatment suggestions.
+I'm an Electrical and Computer Engineering graduate from Addis Ababa Science and Technology University, interested in building technology that solves real problems.
 
-**Stack:** Python · PyTorch · FastAPI · React
+My work spans software engineering, frontend development, graph-based algorithms, and machine learning.
 
-[Explore repository](https://github.com/YOUR_USERNAME/YOUR_PLANT_PROJECT)
+Currently, I'm deepening my AI/ML knowledge while building practical projects that connect theory with implementation.
 
-</td>
-<td width="50%" valign="top">
-
-### Subgraph Miner & Matcher
-
-A graph-based project for discovering and matching patterns
-in complex networks.
-
-**Stack:** Python · Graph Algorithms
-
-[Explore repository](https://github.com/YOUR_USERNAME/YOUR_GRAPH_PROJECT)
+**What I'm exploring**
+- Machine learning and deep learning
+- Graph algorithms and pattern discovery
+- Generative AI and music composition
+- Reliable, user-focused software
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
-### AI Music Generation
+## Currently
 
-Exploring AI-driven music composition using structured
-musical representations and generative methods.
+**Focus**  
+Advanced machine learning
 
-**Stack:** Python · Generative AI
+**Building**  
+AI music generation
 
-[Explore repository](https://github.com/YOUR_USERNAME/YOUR_MUSIC_PROJECT)
+**Background**  
+Software engineering
 
-</td>
-<td width="50%" valign="top">
-
-### Frontend Applications
-
-Building responsive web applications with a focus on
-clean interfaces, usability, and maintainable code.
-
-**Stack:** JavaScript · React · Vite
-
-[Explore repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+**Approach**  
+Learn. Build. Improve.
 
 </td>
 </tr>
 </table>
 
-## Tech Stack
+---
 
-**Languages**
+## 02 / Selected Work
 
-![Python](https://img.shields.io/badge/Python-1B2838?style=flat-square&logo=python&logoColor=4FC3F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1B2838?style=flat-square&logo=javascript&logoColor=F7DF1E)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Frontend**
+### 01. Plant Disease Detection
 
-![React](https://img.shields.io/badge/React-1B2838?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-1B2838?style=flat-square&logo=vite&logoColor=BD93F9)
-![HTML5](https://img.shields.io/badge/HTML5-1B2838?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1B2838?style=flat-square&logo=css3&logoColor=1572B6)
+A deep learning application that identifies plant diseases from leaf images and provides treatment suggestions.
 
-**AI / ML**
+`Python` `PyTorch` `FastAPI` `React`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1B2838?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1B2838?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![FastAPI](https://img.shields.io/badge/FastAPI-1B2838?style=flat-square&logo=fastapi&logoColor=009688)
+[View project →](https://github.com/YOUR_USERNAME/YOUR_PLANT_PROJECT)
 
-## GitHub at a Glance
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58D6AD&text_color=C9D1D9&icon_color=58D6AD"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58D6AD&text_color=C9D1D9"
-    height="165"
-    alt="Most-used languages"
-  />
-</p>
+### 02. Subgraph Miner & Matcher
+
+A graph-based system for discovering and matching patterns in complex networks.
+
+`Python` `Graph Algorithms`
+
+[View project →](https://github.com/YOUR_USERNAME/YOUR_GRAPH_PROJECT)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. AI Music Generation
+
+An ongoing exploration of computational music composition using structured musical representations and generative methods.
+
+`Python` `Generative AI`
+
+[View project →](https://github.com/YOUR_USERNAME/YOUR_MUSIC_PROJECT)
+
+</td>
+<td width="50%" valign="top">
+
+### 04. Software & Frontend Projects
+
+Practical web and mobile applications built with an emphasis on responsive interfaces, maintainable code, and usability.
+
+`JavaScript` `React` `Vite`
+
+[Explore repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>Building more than code — building solutions that matter.</i>
-</p>
+## 03 / Toolkit
 
-<p align="center">
-  Thanks for visiting!
-</p>
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://img.shields.io/badge/Python-101820?style=flat-square&logo=python&logoColor=58D6AD" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-101820?style=flat-square&logo=javascript&logoColor=58D6AD" alt="JavaScript"/>
+
+**FRONTEND & BACKEND**
+
+<img src="https://img.shields.io/badge/React-101820?style=flat-square&logo=react&logoColor=58D6AD" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-101820?style=flat-square&logo=vite&logoColor=58D6AD" alt="Vite"/>
+<img src="https://img.shields.io/badge/FastAPI-101820?style=flat-square&logo=fastapi&logoColor=58D6AD" alt="FastAPI"/>
+
+**MACHINE LEARNING**
+
+<img src="https://img.shields.io/badge/PyTorch-101820?style=flat-square&logo=pytorch&logoColor=58D6AD" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-101820?style=flat-square&logo=tensorflow&logoColor=58D6AD" alt="TensorFlow"/>
+
+</div>
+
+---
+
+## 04 / GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58D6AD&text_color=C9D1D9&icon_color=58D6AD&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58D6AD&text_color=C9D1D9" alt="Most-used languages"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 05 / Beyond the Code
+
+I believe good engineering is about more than writing code. It's about understanding problems, learning continuously, and building solutions that are useful to people.
+
+I'm interested in opportunities to collaborate, contribute, and grow through challenging technical work.
+
+</td>
+<td width="40%" valign="top">
+
+## Connect
+
+- **GitHub:** [Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+- **LinkedIn:** [Professional profile](YOUR_LINKEDIN_URL)
+- **Email:** [Get in touch](mailto:YOUR_EMAIL)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Building more than code — building solutions that matter.*
+
+</div>
